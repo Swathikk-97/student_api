@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure-2gc&4um3*y%48wsf8t*0c*%04%c%s9@qmb73tduye7^%zod@cr
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://student-api-jo4f.onrender.com'
+    
+    "student-api-jo4f.onrender.com"
 ]
 
 
